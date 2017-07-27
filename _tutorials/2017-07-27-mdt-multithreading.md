@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 date: '2017-07-27 16:08 -0700'
 title: MDT multithreading
 author: Viktor Osipchuk
@@ -7,6 +7,7 @@ tags:
   - iosxr
   - MDT
   - Telemetry
+position: hidden
 ---
 ## Collections
 
